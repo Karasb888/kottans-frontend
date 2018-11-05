@@ -3,9 +3,6 @@
 # kottans-frontend
 repo for having fun=)
 
-# kottans-frontend
-repo for having fun=)
-
 ## Linux CLI, and HTTP
 Its was useful=)
 ![](task_linux_cli/main-scr.png)
