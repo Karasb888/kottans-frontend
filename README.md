@@ -25,3 +25,15 @@ Its was useful=)
 **What I will use:<br />**
 
 -all of that=) (hahahahahhahaahhaha)<br />
+
+## Git Collaboration
+![](task_git_collaboration/git.png)
+
+![](task_git_collaboration/git-hub.png)
+
+**What was new:<br />**
+-Git log options) <br />
+-Git merge conflicts and how to resolve them <br />
+-Rebase and cherry-pick <br />
+
+Its was very interesting courses about GIT, but I feel that need real project for 100% understanding of material).
