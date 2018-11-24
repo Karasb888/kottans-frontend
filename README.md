@@ -37,3 +37,14 @@ Its was useful=)
 -Rebase and cherry-pick <br />
 
 Its was very interesting courses about GIT, but I feel that need real project for 100% understanding of material).
+
+## Responsive Web Design
+
+![](task_responsive_web_design/flex-floggy.png)
+
+![](task_responsive_web_design/responsive-web.png)
+
+I already played flex-froggy, but for training I passed it again=)<br />
+**What was new in Responsive web design:<br />**
+-I open new option in chrome devtools
+-Do the responsive page from small to large width
