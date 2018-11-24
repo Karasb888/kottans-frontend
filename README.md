@@ -62,3 +62,23 @@ I already played flex-froggy, but for training I passed it again=)<br />
 -some methods to work with arrays<br />
 -new methods to work with strings<br />
 -creating object with methods
+
+## DOM
+
+![](task_js_dom/freecodecamp.png)
+
+![](task_js_dom/udacity-dom.png)
+
+**What was interesting:<br />**
+
+-working with dom and use dom-methods<br />
+-read about js optimization<br />
+-complete last half of freecodecamp course=)<br />
+
+**What was new:<br />**
+-textContent method (a know only about innerHTML)<br />
+-firstElementChild property and parentElement property (before that I use Query \-\_\- )<br />
+-call stack and how it works<br />
+-performance.now (i know only about console.time)<br />
+-method createDocumentFragment<br />
+-when use setTimeout with delay 0<br />
