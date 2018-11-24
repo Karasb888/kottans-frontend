@@ -48,3 +48,17 @@ I already played flex-froggy, but for training I passed it again=)<br />
 **What was new in Responsive web design:<br />**
 -I open new option in chrome devtools
 -Do the responsive page from small to large width
+
+## JS Basics
+
+![](task_js_basics/freecodecamp.png)
+
+![](task_js_basics/udacity-js.png)
+
+**What was interesting:<br />**
+-do the exercises (creating algorithms, searching new methods to solve tasks)
+
+**What was new:<br />**
+-some methods to work with arrays<br />
+-new methods to work with strings<br />
+-creating object with methods
