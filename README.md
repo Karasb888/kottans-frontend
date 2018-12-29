@@ -82,3 +82,11 @@ I already played flex-froggy, but for training I passed it again=)<br />
 -performance.now (i know only about console.time)<br />
 -method createDocumentFragment<br />
 -when use setTimeout with delay 0<br />
+
+https://github.com/Karasb888/docs/tree/master/docs
+Reviewed and approved by @OleksiyRudenko
+
+## A Tiny JS World
+
+https://github.com/Karasb888/a-tiny-JS-world
+Reviewed and approved by @OleksiyRudenko
