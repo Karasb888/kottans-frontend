@@ -91,3 +91,29 @@ Reviewed and approved by @OleksiyRudenko
 
 https://github.com/Karasb888/a-tiny-JS-world
 Reviewed and approved by @OleksiyRudenko
+
+**What was new:<br />**
+-for in loop (I am so sorry!!)<br />
+-how to choose names for constant in js
+
+
+## Object Oriented JS
+Game:
+
+https://karasb888.github.io/frogger-game/
+Reviewed and approved by @OleksiyRudenko
+
+CodeWars:
+https://www.codewars.com/users/karasb888
+
+![](task_js_oop/codewars.png)
+
+**What was interesting:<br />**
+-Do the task on codewars, write algorithms, loops etc<br />
+-Trying to upgrade kyu on codewars=)<br />
+-Building my first OOP app =)<br />
+
+**What was new:<br />**
+-OOP in js)<br />
+-arrays methods (map, find)<br />
+-working with side code (engine in OOP frogger)<br />
