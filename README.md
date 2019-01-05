@@ -124,10 +124,10 @@ https://karasb888.github.io/memory-pair-game/
 Reviewed and approved by @zonzujiro
 
 **What was interesting:<br />**
--Listing spongbob memes when searching for image
--Create my first GAME!=)
--Using my knowledge in real js project
+-Listing spongbob memes when searching for image <br />
+-Create my first GAME!=) <br />
+-Using my knowledge in real js project <br />
 
 **What was new:<br />**
--Some css animation tricks
--arrays.methods > for loop =)
+-Some css animation tricks<br />
+-arrays.methods > for loop =)<br />
