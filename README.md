@@ -84,12 +84,12 @@ I already played flex-froggy, but for training I passed it again=)<br />
 -method createDocumentFragment<br />
 -when use setTimeout with delay 0<br />
 
-https://github.com/Karasb888/docs/tree/master/docs
+https://github.com/Karasb888/docs/tree/master/docs <br />
 Reviewed and approved by @OleksiyRudenko
 
 ## A Tiny JS World
 
-https://github.com/Karasb888/a-tiny-JS-world
+https://github.com/Karasb888/a-tiny-JS-world <br />
 Reviewed and approved by @OleksiyRudenko
 
 **What was new:<br />**
@@ -100,7 +100,7 @@ Reviewed and approved by @OleksiyRudenko
 ## Object Oriented JS
 Game:
 
-https://karasb888.github.io/frogger-game/
+https://karasb888.github.io/frogger-game/ <br />
 Reviewed and approved by @OleksiyRudenko
 
 CodeWars:
@@ -117,3 +117,17 @@ https://www.codewars.com/users/karasb888
 -OOP in js)<br />
 -arrays methods (map, find)<br />
 -working with side code (engine in OOP frogger)<br />
+
+## Memory Pair Game
+
+https://karasb888.github.io/memory-pair-game/
+Reviewed and approved by @zonzujiro
+
+**What was interesting:<br />**
+-Listing spongbob memes when searching for image
+-Create my first GAME!=)
+-Using my knowledge in real js project
+
+**What was new:<br />**
+-Some css animation tricks
+-arrays.methods > for loop =)
