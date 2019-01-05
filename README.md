@@ -118,10 +118,27 @@ https://www.codewars.com/users/karasb888
 -arrays methods (map, find)<br />
 -working with side code (engine in OOP frogger)<br />
 
+## OOP Exercise
+
+Code Base <br />
+https://github.com/Karasb888/a-tiny-JS-world/blob/gh-pages/index.js <br />
+Demo <br />
+https://karasb888.github.io/a-tiny-JS-world/
+<br />Reviewed and approved by @OleksiyRudenko
+
+**What was interesting:<br />**
+-Rebuild own code<br />
+-Improving code to keep him DRY and SOLID (still need practise =( ))<br />
+
+
+**What was new:<br />**
+-Better understanding OOP in js<br />
+-Extending subclasses in superclass, <br />
+
 ## Memory Pair Game
 
 https://karasb888.github.io/memory-pair-game/
-Reviewed and approved by @zonzujiro
+<br />Reviewed and approved by @zonzujiro
 
 **What was interesting:<br />**
 -Listing spongbob memes when searching for image <br />
