@@ -148,3 +148,9 @@ https://karasb888.github.io/memory-pair-game/
 **What was new:<br />**
 -Some css animation tricks<br />
 -arrays.methods > for loop =)<br />
+
+
+## Friends App
+
+https://karasb888.github.io/friends-app/
+<br /> Reviewed and approved by @zonzujiro
